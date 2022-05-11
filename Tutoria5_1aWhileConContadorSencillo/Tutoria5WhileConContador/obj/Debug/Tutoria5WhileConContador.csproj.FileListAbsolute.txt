@@ -1,0 +1,20 @@
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2021\IAI115\TUTOR\Tutoria5WhileConContador\Tutoria5WhileConContador\bin\Debug\Tutoria5WhileConContador.exe.config
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2021\IAI115\TUTOR\Tutoria5WhileConContador\Tutoria5WhileConContador\bin\Debug\Tutoria5WhileConContador.exe
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2021\IAI115\TUTOR\Tutoria5WhileConContador\Tutoria5WhileConContador\bin\Debug\Tutoria5WhileConContador.pdb
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2021\IAI115\TUTOR\Tutoria5WhileConContador\Tutoria5WhileConContador\obj\Debug\Tutoria5WhileConContador.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2021\IAI115\TUTOR\Tutoria5WhileConContador\Tutoria5WhileConContador\obj\Debug\Tutoria5WhileConContador.exe
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2021\IAI115\TUTOR\Tutoria5WhileConContador\Tutoria5WhileConContador\obj\Debug\Tutoria5WhileConContador.pdb
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\IAI115\PROGRAMACION DE TUTORIAS\Agendas\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\bin\Debug\Tutoria5WhileConContador.exe.config
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\IAI115\PROGRAMACION DE TUTORIAS\Agendas\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\bin\Debug\Tutoria5WhileConContador.exe
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\IAI115\PROGRAMACION DE TUTORIAS\Agendas\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\bin\Debug\Tutoria5WhileConContador.pdb
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\IAI115\PROGRAMACION DE TUTORIAS\Agendas\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\obj\Debug\Tutoria5WhileConContador.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\IAI115\PROGRAMACION DE TUTORIAS\Agendas\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\obj\Debug\Tutoria5WhileConContador.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\IAI115\PROGRAMACION DE TUTORIAS\Agendas\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\obj\Debug\Tutoria5WhileConContador.exe
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\IAI115\PROGRAMACION DE TUTORIAS\Agendas\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\obj\Debug\Tutoria5WhileConContador.pdb
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\Tutor\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\bin\Debug\Tutoria5WhileConContador.exe.config
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\Tutor\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\bin\Debug\Tutoria5WhileConContador.exe
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\Tutor\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\bin\Debug\Tutoria5WhileConContador.pdb
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\Tutor\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\obj\Debug\Tutoria5WhileConContador.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\Tutor\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\obj\Debug\Tutoria5WhileConContador.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\Tutor\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\obj\Debug\Tutoria5WhileConContador.exe
+C:\Users\usuario\Desktop\CATEDRASFIA\CICLO I-2022\Tutor\Tutoria5\ProcesoSolucionador\Codigos\Tutoria5_1aWhileConContadorSencillo\Tutoria5WhileConContador\obj\Debug\Tutoria5WhileConContador.pdb
