@@ -6,6 +6,7 @@ namespace Tutoria5WhileConContador
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
             Double NumeroLeido, Suma, Promedio;
             int Contador;
             Suma = 0;
